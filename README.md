@@ -6,5 +6,13 @@ The analysis was designed to explore patient data, focusing on demographics, enc
 
 ## Results
 
+![](E:\Class\Healthcare SQL Data\images\unique_encounter_class.png)
+![](E:\Class\Healthcare SQL Data\images\inpatient_ICU_admissions.png)
+![](E:\Class\Healthcare SQL Data\images\common_conditions.png)
+![](E:\Class\Healthcare SQL Data\images\patients_cities.png)
+
+## Conclusions
+
+
 
 
