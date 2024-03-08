@@ -12,6 +12,7 @@ The analysis was designed to explore patient data, focusing on demographics, enc
 ![im_4](patients_cities.png)
 
 ## Conclusions
+In summary,
 
 
 
