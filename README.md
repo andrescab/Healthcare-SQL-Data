@@ -7,7 +7,7 @@ The analysis was designed to explore patient data, focusing on demographics, enc
 ## Results
 
 ![im_1](unique_encounter_class.png)
-![im_2](inpatient_ICU_admissions.png)
+![im_21](inpatient_ICU_admissions.png)
 ![im_3](common_conditions.png)
 ![im_4](patients_cities.png)
 
