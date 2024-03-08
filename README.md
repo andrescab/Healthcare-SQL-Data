@@ -6,19 +6,19 @@ The analysis was designed to explore patient data, focusing on demographics, enc
 
 ## Results
 
-Overview of Encounter Types Across the Healthcare System
+###Overview of Encounter Types Across the Healthcare System
 
 ![im_1](unique_encounter_class.png)
 
-2023 Inpatient ICU Admissions Overview
+###2023 Inpatient ICU Admissions Overview
 
 ![im_21](inpatient_ICU_admissions.png)
 
-Prevalent Health Conditions Identified in 2023 (Excluding Specific BMI Ranges)
+###Prevalent Health Conditions Identified in 2023 (Excluding Specific BMI Ranges)
 
 ![im_3](common_conditions.png)
 
-Patient Distribution by City (Excluding Boston) with Significant Populations
+###Patient Distribution by City (Excluding Boston) with Significant Populations
 
 ![im_4](patients_cities.png)
 
